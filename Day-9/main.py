@@ -22,4 +22,4 @@ while new_bidder:
                 pass
         print(f"The winner is {winner} with a bid of {bidders[winner]} $ ")
     else:
-        clear()
+        pass
