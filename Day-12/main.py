@@ -12,7 +12,7 @@ from art import logo
 
 import random
 
-
+print(lobo)
 my_number = random.randint(1, 100)
 attempts = {"hard": 5, "easy": 10}
 
